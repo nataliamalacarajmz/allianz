@@ -1,0 +1,7 @@
+streamlit==1.24.0     # O la versión de Streamlit que estés usando
+yfinance==0.2.12      # Para obtener datos financieros de Yahoo Finance
+pandas==1.5.3         # Para el manejo de datos
+numpy==1.23.5         # Para cálculos matemáticos
+matplotlib==3.7.1     # Para gráficos estáticos
+seaborn==0.12.2       # Para gráficos estilizados con Matplotlib
+plotly==5.13.0        # Para gráficos interactivos con Plotly
