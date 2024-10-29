@@ -1,7 +1,9 @@
-streamlit==1.24.0     # O la versión de Streamlit que estés usando
-yfinance==0.2.12      # Para obtener datos financieros de Yahoo Finance
-pandas==1.5.3         # Para el manejo de datos
-numpy==1.23.5         # Para cálculos matemáticos
-matplotlib==3.7.1     # Para gráficos estáticos
-seaborn==0.12.2       # Para gráficos estilizados con Matplotlib
-plotly==5.13.0        # Para gráficos interactivos con Plotly
+streamlit==1.24.0
+yfinance==0.2.12
+pandas==1.5.3
+numpy==1.24.0       # Actualizamos a una versión más reciente de numpy
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.13.0
+setuptools>=58.0.0   # Asegura la instalación de setuptools
+wheel               # Asegura la instalación de wheel para compilar paquetes
