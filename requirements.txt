@@ -1,9 +1,8 @@
-streamlit==1.24.0
-yfinance==0.2.12
-pandas==1.5.3
-numpy==1.24.0       # Actualizamos a una versión más reciente de numpy
-matplotlib==3.7.1
-seaborn==0.12.2
-plotly==5.13.0
-setuptools>=58.0.0   # Asegura la instalación de setuptools
-wheel               # Asegura la instalación de wheel para compilar paquetes
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+          # Asegura la instalación de wheel para compilar paquetes
